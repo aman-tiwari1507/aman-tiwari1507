@@ -32,9 +32,15 @@ I'm a **Cybersecurity Engineer** at **Cantaloupe Inc.**, where I lead vulnerabil
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Security Tools
+### ☁️ Cloud Technologies
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+### ☁️ Cloud Security Tools
+<p>
   <img src="https://img.shields.io/badge/Wiz-0C2B4F?style=for-the-badge&logo=wiz&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh_SIEM-0066CC?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
