@@ -16,7 +16,7 @@
 I'm a **Cybersecurity Engineer** at **Cantaloupe Inc.**, where I lead vulnerability risk management across 500+ servers and 50+ web applications for a platform processing **$2.4B+ in annual transactions**. With a Master's in Cyber Security from **Georgia Tech** (CGPA: 3.92/4.00), I specialize in building security frameworks that scale.
 
 - 🔐 Currently pioneering **enterprise security guardrails for AI-assisted development**
-- 🛡️ Passionate about **Vulnerability Management, Cloud Security, and SIEM optimization**
+- 🛡️ Passionate about **Securing Complex Architectures through simplistic innovations**
 - 📚 Former **Graduate Teaching Assistant** for Secure Computer Systems at Georgia Tech
 - 🧪 Affiliate Security Researcher exploring **LLM + RAG integration** in cyber risk management
 - 💬 Ask me about **compliance frameworks, cloud hardening, or AI security**
