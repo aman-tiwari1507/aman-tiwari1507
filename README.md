@@ -39,7 +39,6 @@ I'm a **Cybersecurity Engineer** at **Cantaloupe Inc.**, where I lead vulnerabil
   <img src="https://img.shields.io/badge/Wazuh_SIEM-0066CC?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Tenable-00545E?style=for-the-badge&logo=tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge&logo=crowdstrike&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
@@ -49,7 +48,6 @@ I'm a **Cybersecurity Engineer** at **Cantaloupe Inc.**, where I lead vulnerabil
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Maltego-12AA50?style=for-the-badge&logo=maltego&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA_Pro-8B0000?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 📋 Compliance & Frameworks
