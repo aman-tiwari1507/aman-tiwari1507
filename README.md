@@ -121,9 +121,6 @@ I'm a **Cybersecurity Engineer** at **Cantaloupe Inc.**, where I lead vulnerabil
   <a href="mailto:amtiwari5678@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+14708837816">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 <p align="center"><i>"Security is not a product, but a process." — Bruce Schneier</i></p>
