@@ -76,8 +76,15 @@ I'm a **Cybersecurity Engineer** at **Cantaloupe Inc.**, where I lead vulnerabil
 
 ## 💼 Professional Experience
 
+### 🔷 ARQ (formerly DolarApp) — *Security Engineer*
+`Jul 2026 – Present`
+- Architected and owned the creation, management, and improvement of Detection Engineering capabilities in Datadog and maintained them as IaC using Terraform in the infrastructure codebase, resulting in the **creation of 400+ rules** and an **increase in coverage from 4% to 83% as per the MITRE ATT&CK Index**. 
+- Engineered and maintained an AI-native Data Egress application for the security team while we were sourcing a DLP (Data Loss Prevention) tool that assimilated application and event logs from existing SaaS applications along with CrowdStrike EDR logs from NG-SIEM to identify insecure movement of ARQ data externally, resulting in the identification of a minimum of 10+ daily non-allowed actions.
+- Developed and deployed the components of the Datadog Cloud SIEM and Log implementation, such as monitors, indexes, pipelines, notification and detection rules, from UI based refactors to IaC using Terraform in the centralized ARQ infrastructure codebase, adding a security layer to the changes made in Datadog, and hence adding durability and transparency to platform changes.
+- Reinvented Security Reviews for the vendor onboarding process by creating automation workflows working alongside Assessment and Intake forms in Vanta, that allowed employees to submit information much more easily and automated all the security research on the vendor for the security team, resulting in a 50% reduction in time taken for the end-to-end security review.
+
 ### 🔷 Cantaloupe Inc. — *Cybersecurity Engineer*
-`Jan 2025 – Present`
+`Jan 2025 – Jun 2026`
 - Lead Vulnerability Risk Management across **500+ servers & 50+ web apps**, boosting resolution rates by **85% QOQ**
 - Engineered enterprise security frameworks for **AI-assisted development**, reducing AI-introduced code vulnerabilities by **~30%**
 - Optimized Wazuh SIEM filters, cutting false positives by **40%** for third-party SOC consumption
